@@ -1,7 +1,7 @@
 # PGWEB-ACARA1-JO
 Perencanaan Web Produk Git dan Web GIS
 
-Nama : Johanes Berchman Juvens Junior Pareira 
+Nama : Johanes Berchmann Juvens Junior Pareira 
 
 NIM : 22/496923/SV/21050
 
