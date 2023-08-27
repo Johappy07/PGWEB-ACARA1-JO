@@ -1,6 +1,6 @@
 # PGWEB-ACARA1-JO
 
-
+# Perkenalkan nama saya Johanes Berchmann Juvens Junior Pareira
 Perkenalkan saya merupakan mahasiswa semester 3 program studi Sistem Informasi Geografis dari Universitas Gadjah Mada. Saya memiliki ketertarikan pada bidang GIS dan WebGIS. Pada praktikum pemograman geospasial : Web ini saya akan memiliki tugas untuk membuat Perencanaan Web Produk Git dan Web GIS.Berikut data diri saya:
 
 Nama : Johanes Berchmann Juvens Junior Pareira 
